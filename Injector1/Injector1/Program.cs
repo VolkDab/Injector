@@ -1,4 +1,5 @@
-﻿using System;
+//by Vlasov Andrey (andrew.vlasof@yandex.ru)
+using System;
 using System.Windows.Forms;
 
 namespace Injector1
